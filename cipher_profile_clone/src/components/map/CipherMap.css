@@ -1,0 +1,11 @@
+
+.cipherMap{
+    margin: 7px 0px;
+    width: 100%;
+}
+.cl-container{
+    display: grid;
+    grid-template-columns: repeat(50,minmax(4px,155px));
+    grid-gap: 0.25em;
+    margin-top: 13px;
+}

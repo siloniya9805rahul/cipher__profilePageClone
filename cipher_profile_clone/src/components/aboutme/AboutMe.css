@@ -1,0 +1,27 @@
+.aboutMe {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding: 11px 5px;
+}
+#about-edit-button {
+  width: 90px;
+  height: 35px;
+  border-radius: 5px;
+  background-color: #ed9e34;
+  color: white;
+  font-size: 14px;
+}
+#aboutMeInput {
+  height: 150px;
+  width: 100%;
+  padding: 0px 10px;
+  font-size: 18px;
+  border-radius: 12px;
+}
