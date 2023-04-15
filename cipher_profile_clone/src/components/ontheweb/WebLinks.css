@@ -1,0 +1,19 @@
+.louter-container{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    row-gap: 15px;
+    column-gap: 15px;
+}
+.lcontainer{
+    width: 100%;
+    padding: 5px;
+
+}
+.inputlink{
+    width: 95%;
+    border-radius: 5px;
+    padding: 5px;
+    padding-left: 10px;
+    font-size: 15px;
+}

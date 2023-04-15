@@ -8,7 +8,7 @@ function AboutMe() {
         <h1>About Me </h1>
         <button id="about-edit-button">Edit</button>
       </div>
-      <input
+      <textarea
         type="text"
         placeholder="Add something about you."
         id="aboutMeInput"
